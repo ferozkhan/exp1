@@ -1,0 +1,5 @@
+*.pyc
+.Python
+appcom/lib/
+appcom/bin/
+appcom/include/
